@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcbf124a-ca1c-4c7b-82ac-281e810510d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Astract/src/Arraylist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Astract/src/Arraylist/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Astract/src/Arraylist/Studentmanagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Astract/src/Hoc/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Astract/src/QuanLiSV/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Astract/src/QuanLiSV/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Astract/src/QuanLiSV/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap_NhuAnh/src/lam_bai_tap/CreateFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoFile/inp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoFile/rs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaoFile/src/Main/TaoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timmax/TimMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Astract/src/Hoc/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Astract/src/Hoc/StudentManage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Astract/src/QuanLiXe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Astract/src/InterfaceResizeable/QuanLiXe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Astract/src/QuanLiXe/Oto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Astract/src/InterfaceResizeable/QuanLiXe/Oto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Astract/src/QuanLiXe/PhuongTien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Astract/src/InterfaceResizeable/QuanLiXe/PhuongTien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Astract/src/QuanLiXe/QuanLiXeMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Astract/src/InterfaceResizeable/QuanLiXe/QuanLiXeMay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Astract/src/QuanLiXe/QuanLy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Astract/src/InterfaceResizeable/QuanLiXe/QuanLy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Astract/src/QuanLiXe/XeMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Astract/src/InterfaceResizeable/QuanLiXe/XeMay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Astract/Hoc/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Astract/Hoc/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Astract/Hoc/StudentManage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Astract/QuanLiXe/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Astract/QuanLiXe/Oto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Astract/QuanLiXe/PhuongTien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Astract/QuanLiXe/QuanLiXeMay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Astract/QuanLiXe/QuanLy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Astract/QuanLiXe/XeMay.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28KSsxYWYlkhdrVPbBgOuTNyr4w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcbf124a-ca1c-4c7b-82ac-281e810510d1" name="Changes" comment="" />
+      <created>1650963994681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650963994681</updated>
+      <workItem from="1650963995829" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
